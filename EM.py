@@ -1,3 +1,6 @@
+# The code provided is taken from the following link with a little modification:
+# https://github.com/mcdickenson/em-gaussian/blob/master/em-gaussian.py
+
 import numpy as np
 import pandas as pd
 import random as rand
